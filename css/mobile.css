@@ -363,4 +363,17 @@
 		padding: 0 0 35px;
 		width: 90%;
 	}
+		.whatsapp{
+		display: flex;
+		position: fixed;
+		justify-content: flex-end;
+		right: 0px;
+		top: 60%;
+	}
+	.whatsapp h5 {
+        color: white;
+        background: #20b20f;
+        padding: 12px;
+        border-radius: 50px;
+	}
 }
