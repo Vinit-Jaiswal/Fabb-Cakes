@@ -80,7 +80,7 @@ img {
 	margin: 0 auto;
 	padding: 80px 0 0;
 	text-align: center;
-	width: 513px;
+	width: 580px;
 }
 #header div ul li {
 	display: inline-block;
@@ -93,7 +93,7 @@ img {
 #header div ul li a {
 	color: #7a6666;
 	font-family: lato-regular-webfont;
-	font-size: 15px;
+	font-size: 1.2rem;
 	font-weight: normal;
 	line-height: 15px;
 	margin: 0;
